@@ -3,7 +3,7 @@
 
 I am a professional mathematician with 5 years of experience in Data Analysis and Machine Learning. Being a highly versatile data professional, I have worked in various domains: digital healthcare, e-commerce, autoML, and antifraud solutions. 
 
-At the moment, I am getting my second Master's Degree in Data Science and Advanced Analytics at <a href="https://www.novaims.unl.pt/" target="_blank">Nova IMS</a>, Lisbon.
+At the moment, I am getting my second Master's Degree in Data Science and Advanced Analytics at <a href="https://www.novaims.unl.pt/en/" target="_blank">Nova IMS</a>, Lisbon.
 
 <h4 align="left"> Current interests: </h3>
 
