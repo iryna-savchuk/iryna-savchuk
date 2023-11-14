@@ -1,12 +1,13 @@
 <h1 align="center">Iryna Savchuk</h1>
 <h3 align="center">Data Scientist</h3>
 
-I am a  Data Science professional with 5 years of enterprise experience in Data Analysis and Machine Learning. Highly versatile, I have worked in various domains: digital healthcare, e-commerce, autoML, and anti-fraud solutions.
+I am a  Data Science professional with 5 years of enterprise experience in Data Analysis and Machine Learning. Highly versatile, I have worked in various domains: digital healthcare, fintech, e-commerce, autoML, and anti-fraud solutions.
 
-I have a Master's Degree in Mathematics that was gained at Kharkiv National University in Ukraine. In addition, at the current moment, I am getting the second Master's Degree in Data Science and Advanced Analytics at <a href="https://www.novaims.unl.pt/en/" target="_blank">Nova IMS</a>, Lisbon.
+I have a Master's in Mathematics from Kharkiv National University in Ukraine. In addition, at the current moment, I am getting my second Master's Degree in Data Science and Advanced Analytics at <a href="https://www.novaims.unl.pt/en/" target="_blank">Nova IMS</a>, Lisbon.
 
 <h4 align="left"> Current interests: </h3>
 
+- Data-driven decision making
 - NLP and Text Mining
 - Anti-fraud systems and Anomaly Detection
 - Computer Vision
