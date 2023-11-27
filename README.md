@@ -10,7 +10,6 @@ I have a Master's in Mathematics from Kharkiv National University in Ukraine. In
 - Data-driven decision making
 - NLP and Text Mining
 - Anti-fraud systems and Anomaly Detection
-- Computer Vision
 
 <h4 align="left"> Technology Summary: </h3>
 
