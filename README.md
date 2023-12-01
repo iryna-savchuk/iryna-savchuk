@@ -8,6 +8,7 @@ I have a Master's in Mathematics from Kharkiv National University in Ukraine. In
 <h4 align="left"> Interests: </h3>
 
 - Data-driven decision making
+- Deep Learning 
 - NLP and Text Mining
 - Anti-fraud systems and Anomaly Detection
 
