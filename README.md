@@ -8,9 +8,9 @@ I have a Master's in Mathematics from <a href="https://karazin.ua/en/" target="_
 <h4 align="left"> Interests: </h3>
 
 - Data-driven decision making
-- Deep Learning 
-- Anti-fraud systems and Anomaly Detection
 - NLP and Text Mining
+- Anti-fraud systems and Anomaly Detection
+- Deep Learning
 
 <h4 align="left"> Technology Summary: </h3>
 
