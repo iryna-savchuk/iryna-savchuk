@@ -8,9 +8,10 @@ I have a Master's in Mathematics from <a href="https://karazin.ua/en/" target="_
 <h4 align="left"> Interests: </h3>
 
 - Data-driven decision making
+- Deep Learning application 
 - NLP and Text Mining
 - Anti-fraud systems and Anomaly Detection
-- Deep Learning
+
 
 <h4 align="left"> Technology Summary: </h3>
 
@@ -18,9 +19,9 @@ I have a Master's in Mathematics from <a href="https://karazin.ua/en/" target="_
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
-![NLTK](https://img.shields.io/badge/-NLTK-black?style=flat-square&logo=Python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=TensorFlow)
+![NLTK](https://img.shields.io/badge/-NLTK-black?style=flat-square&logo=Python)
 ![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
