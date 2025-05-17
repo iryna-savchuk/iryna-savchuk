@@ -1,19 +1,21 @@
 <h1 align="center">Iryna Savchuk</h1>
-<h3 align="center">Data Analyst / Data Scientist</h3>
+<h3 align="center">AI Software Engineer | Data Scientist | PhD Student</h3>
 
-I am a  Data Science professional with 5 years of enterprise experience in Data Analysis and Machine Learning. Highly versatile, I have worked in various domains: digital healthcare, e-commerce, autoML, and anti-fraud solutions.
+I am an AI-focused software developer and Data Science professional with 5+ years of professional experience. For the past 3.5 years, I have been focused on designing and deploying AI-driven solutions, including ML systems, DL models, and intelligent automation pipelines. Before that, I worked primarily as a Data Analyst, focusing on data exploration, data quality, statistical modeling, and building decision-support tools.
 
-I have a Master's in Mathematics from <a href="https://karazin.ua/en/" target="_blank">Kharkiv National University</a> in Ukraine. In addition, at the current moment, I am finishing my second Master's Degree in Data Science and Advanced Analytics at <a href="https://www.novaims.unl.pt/en/" target="_blank">Nova IMS</a> in Lisbon.
+My work spans multiple domains, including digital healthcare, e-commerce, AutoML platforms, and fraud detection systems.
 
-<h4 align="left"> Interests: </h3>
+I hold a Master's degree in Mathematics from <a href="https://karazin.ua/en/" target="_blank">Kharkiv National University</a> in Ukraine, and a Master's in Data Science and Advanced Analytics from <a href="https://www.novaims.unl.pt/en/" target="_blank">Nova IMS</a> in Lisbon. Currently, I am a PhD student at Nova IMS, pursuing a Doctor of Philosophy in Information Management with a specialization in Data Science and AI.
 
-- Data-driven decision making
-- Deep Learning application 
-- NLP, Text Mining, LLMs
-- Anti-fraud systems and Anomaly Detection
+<h4 align="left">Interests:</h4>
 
+- AI software architecture and scalable ML systems  
+- Python development for data analysis and machine learning pipelines  
+- Applied deep learning (NLP, LLMs, computer vision)  
+- Anomaly detection and anti-fraud intelligence  
+- Data-centric research and decision intelligence
 
-<h4 align="left"> Technology Summary: </h3>
+<h4 align="left"> Technology Summary: </h4>
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
@@ -30,7 +32,7 @@ I have a Master's in Mathematics from <a href="https://karazin.ua/en/" target="_
 ![Dash](https://img.shields.io/badge/-Dash-black?style=flat-square&logo=Dash)
 
 
-<h4 align="left">📫 Want to get in touch?</h3>
+<h4 align="left">📫 Want to Get in Touch?</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LindkedIn-blue?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/iryna-savchuk/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836??style=flat-square&logo=Gmail&logoColor=white)](mailto:iryna.o.savchuk@gmail.com)
