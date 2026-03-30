@@ -1,7 +1,7 @@
 <h1 align="center">Iryna Savchuk</h1>
 <h3 align="center">AI Software Engineer | Data Scientist | PhD Student</h3>
 
-I am an AI-focused software developer and Data Science professional with 5+ years of professional experience. For the past 3.5 years, I have been focused on designing and deploying AI-driven solutions, including ML systems, DL models, and intelligent automation pipelines. Before that, I worked primarily as a Data Analyst, focusing on data exploration, data quality, statistical modeling, and building decision-support tools.
+I am an AI-focused software developer and Data Science professional with 7+ years of professional experience. For the past 4 years, I have been focused on designing and deploying AI-driven solutions, including ML systems, DL models, and intelligent automation pipelines. Before that, I worked primarily as a Data Analyst, focusing on data exploration, data quality, statistical modeling, and building decision-support tools.
 
 My work spans multiple domains, including digital healthcare, e-commerce, AutoML platforms, and fraud detection systems.
 
